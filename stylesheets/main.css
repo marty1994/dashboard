@@ -1,0 +1,47 @@
+body {
+    padding-top: 50px;
+    font-family: 'Anonymous Pro', monospace;
+    background-color: dar
+}
+
+h1 {
+    font-weight: 800;
+}
+
+/*STYLING FOR SIDEBAR*/
+.sidebar {
+    background-color: rgba(0, 0, 0, .9);
+    color: white;
+    border-top: 5px solid #eee;
+    border-bottom: 5px solid #eee;
+    border-right: 2px solid #eee;
+    border-left: 2px solid #eee;
+    border-radius: 2px;
+    position: fixed;
+    left: 20px;
+    top: 70px;
+    padding: 20px 0;
+}
+
+.sidebar ul {
+    padding: 10px 0;
+    border-bottom: 3px solid #eee;
+}
+
+.sidebar a {
+    color: inherit;
+}
+
+.sidebar ul li a:hover,
+.sidebar ul li a.active {
+    color: black;
+    background-color: white;
+}
+/*END STYLING FOR SIDEBAR*/
+
+/*MAIN CONTENT STYLING*/
+
+
+
+
+/*END MAIN CONTENT STYLING*/
